@@ -5,15 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2af33350-5ca9-4d6c-9bf8-7aa4d66fffa3" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_0_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__com_github_luben_zstd_jni_1_4_0_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_3_1.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_apache_kafka_kafka_clients_2_3_1.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_lz4_lz4_java_1_6_0.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_api_1_7_26.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_21.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_slf4j_slf4j_simple_1_7_21.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/libraries/Maven__org_xerial_snappy_snappy_java_1_1_7_3.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/EmailService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/FraudDetectorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/FraudDetectorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/LogService.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/NewOrderMain.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -71,8 +67,8 @@
       <recent name="org.kafka.alura" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.FraudDetectorService">
-    <configuration name="EmailService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.EmailService">
+    <configuration name="EmailService" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.kafka.alura.EmailService" />
       <module name="kafka-ecommerce" />
       <extension name="coverage">
@@ -85,7 +81,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="FraudDetectorService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="FraudDetectorService" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.kafka.alura.FraudDetectorService" />
       <module name="kafka-ecommerce" />
       <extension name="coverage">
@@ -98,7 +94,7 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LogService" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="LogService" type="Application" factoryName="Application" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="org.kafka.alura.LogService" />
       <module name="kafka-ecommerce" />
       <extension name="coverage">
@@ -127,16 +123,13 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.NewOrderMain" />
-      <item itemvalue="Application.LogService" />
       <item itemvalue="Application.EmailService" />
       <item itemvalue="Application.FraudDetectorService" />
+      <item itemvalue="Application.LogService" />
+      <item itemvalue="Application.NewOrderMain" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LogService" />
-        <item itemvalue="Application.FraudDetectorService" />
-        <item itemvalue="Application.EmailService" />
         <item itemvalue="Application.NewOrderMain" />
       </list>
     </recent_temporary>
