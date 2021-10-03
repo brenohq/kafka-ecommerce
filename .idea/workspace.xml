@@ -4,7 +4,18 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="2af33350-5ca9-4d6c-9bf8-7aa4d66fffa3" name="Default Changelist" comment="" />
+    <list default="true" id="2af33350-5ca9-4d6c-9bf8-7aa4d66fffa3" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/kafka-ecommerce.iml" beforeDir="false" afterPath="$PROJECT_DIR$/kafka-ecommerce.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/ConsumerFunction.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/ConsumerFunction.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/EmailService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/EmailService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/FraudDetectorService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/FraudDetectorService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/KafkaDispatcher.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/KafkaDispatcher.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/KafkaService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/KafkaService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/LogService.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/LogService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/kafka/alura/NewOrderMain.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/kafka/alura/NewOrderMain.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -31,9 +42,9 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://$PROJECT_DIR$/src/main/java/org/kafka/alura/LogService.java" root0="FORCE_HIGHLIGHTING" />
-    <setting file="file://$PROJECT_DIR$/src/main/java/org/kafka/alura/EmailService.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/kafka/alura/FraudDetectorService.java" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/src/main/java/org/kafka/alura/NewOrderMain.java" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/src/main/java/org/kafka/alura/EmailService.java" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="ProblemsViewState">
     <option name="selectedIndex" value="1" />
